@@ -13,6 +13,7 @@ namespace Atividade_d_15_03
             Console.WriteLine("Novo episodio");
             Console.WriteLine("mec bire");
             Console.WriteLine("dale");
+            Console.WriteLine("dele");
         }
     }
 }
