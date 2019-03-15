@@ -14,6 +14,7 @@ namespace Atividade_d_15_03
             Console.WriteLine("mec bire");
             Console.WriteLine("dale");
             Console.WriteLine("dele");
+            Console.WriteLine("delew");
         }
     }
 }
