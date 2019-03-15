@@ -10,6 +10,9 @@ namespace Atividade_d_15_03
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Novo episodio");
+            Console.WriteLine("mec bire");
+            Console.WriteLine("dale");
         }
     }
 }
